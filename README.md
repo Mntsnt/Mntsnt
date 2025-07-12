@@ -52,25 +52,11 @@ A passionate learner exploring **Medicine, Programming, and AI** ✨
 
 ## 🤝 Connect with me:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mintesnotleliso" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mntsnt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/MintesnotLeliso" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://t.me/MntsntZP" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
-  </a>
-  &nbsp;
-  <a href="https://discordapp.com/users/mintesnoh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="30" height="30"/>
-  </a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mintesnotleliso)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Mntsnt)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MintesnotLeliso)  
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?logo=telegram&logoColor=white)](https://t.me/MntsntZP)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/users/mintesnoh)
+
 
