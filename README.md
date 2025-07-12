@@ -48,15 +48,29 @@ A passionate learner exploring **Medicine, Programming, and AI** ✨
 
 ---
 
+
+
 ## 🤝 Connect with me:
 
-<p>
-  <a href="https://www.linkedin.com/in/mintesnotleliso"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="mailto:mintesnoh@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="30" height="30"/></a>
-  <a href="https://github.com/Mntsnt"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mintesnotleliso" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Mntsnt" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/MintesnotLeliso" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/MntsntZP" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="30" height="30"/>
+  </a>
+  &nbsp;
+  <a href="https://discordapp.com/users/mintesnoh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="30" height="30"/>
+  </a>
 </p>
-
----
-
-> 🕊️ *“I can do all things through Christ who strengthens me.” – Philippians 4:13*
 
