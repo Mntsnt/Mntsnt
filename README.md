@@ -1,9 +1,9 @@
 # Hi there, I'm Mintesnot Leliso! 👋
 
-<img src="https://media.giphy.com/media/xUOxf54vdb2wsoU9iU/giphy.gif" width="300"/>
+<img src= "matrix.gif" width="300"/>
 
 
-## A passionate learner exploring **Medicine, Programming, and AI** ✨
+### A passionate learner exploring **Medicine, Programming, and AI** ✨
 
 
 ## 🔭 I’m currently working on
