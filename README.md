@@ -14,12 +14,6 @@
 
 
 
-## 👨‍💻 All of my projects are available at
-
-➡️ [GitHub Profile](https://github.com/Mntsnt)
-
-
-
 ## 💬 Ask me about
 
 - Python basics and scripting  
